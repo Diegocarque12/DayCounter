@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# DayCounter
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+DayCounter es una aplicación web simple y eficiente construida con Vue 3 y Vite que permite a los usuarios calcular el número exacto de días entre dos fechas seleccionadas.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Características
+
+- Interfaz de usuario intuitiva con selectores de fecha
+- Cálculo instantáneo de la diferencia en días
+- Diseño responsivo y fácil de usar
+- Implementado con Vue 3 para un rendimiento óptimo
+- Desarrollado utilizando Vite para una experiencia de desarrollo rápida
+
+## Tecnologías utilizadas
+
+- Vue 3
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+Ideal para planificadores de proyectos, viajeros o cualquier persona que necesite calcular rápidamente intervalos de tiempo. DayCounter ofrece una solución ligera y eficaz para el cálculo de períodos entre fechas.
